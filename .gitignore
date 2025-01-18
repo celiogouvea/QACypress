@@ -1,0 +1,9 @@
+# Ignorar a pasta node_modules
+node_modules/
+
+# Ignorar arquivos de log
+npm-debug.log
+yarn-error.log
+
+# Ignorar arquivos de sistema do macOS
+.DS_Store
